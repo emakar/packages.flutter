@@ -1,3 +1,7 @@
+## 2.7.1
+
+* Updates the package:web dependency to use a version range.
+
 ## 2.7.0
 
 * Fixed pageSnapping option [pull#435](https://github.com/ScerIO/packages.flutter/pull/435)
